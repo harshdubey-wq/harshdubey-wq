@@ -2,9 +2,9 @@
 
 # Harsh Dubey
 
-### AI/ML Engineer in the Making · Frontend Developer · Technical Lead
+### Aspiring Data Scientist · AI/ML Enthusiast · Technical Lead
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3776AB&center=true&vCenter=true&width=640&lines=Building+AI-powered+products;Leading+web+%26+design+teams;NASA+Space+Apps+2025+%E2%80%93+Top+50;Open+to+internships+%26+entry-level+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3776AB&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Python+%7C+SQL+%7C+Excel+%7C+Machine+Learning;NASA+Space+Apps+2025+%E2%80%93+Top+50;Open+to+data+science+%26+analytics+internships)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshdubey-104414340)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iharshd0007@gmail.com)
@@ -16,17 +16,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech CSE (AI & ML) student at GGITS, Jabalpur** (Class of 2028) who likes turning ideas into working products. I lead the **web development and design efforts at Ajinava Edge**, a technology community, where I ship digital products, coordinate cross-functional teams, and help run hackathons, workshops, and developer programs.
+I'm a **B.Tech CSE (AI & ML) student at GGITS, Jabalpur** (Class of 2028), training to become a **Data Scientist**. I'm currently in a **data science coaching program**, have completed **Excel**, and am working through **MySQL**, alongside Python and machine learning fundamentals.
 
-I'm looking for **internships and entry-level software / AI roles** where I can build, learn fast, and own real problems.
+I like problems where messy data has to become something trustworthy. My project **SkyGuardAI** tackles exactly that: deciding whether a weather reading is real or a faulty sensor. Outside coursework, I'm **Technical Lead at Ajinava Edge**, where I coordinate teams and help run hackathons, workshops, and developer programs.
+
+I'm looking for **data science, data analytics, and ML internships** where I can work with real datasets and grow fast.
 
 | | |
 |---|---|
 | 🏆 **Achievement** | Top 50, NASA Space Apps Challenge 2025 |
+| 🎯 **Goal** | Data Scientist |
+| 📚 **Currently** | Data science coaching · MySQL · Python · ML fundamentals |
 | 💼 **Leadership** | Technical Lead @ Ajinava Edge · Lead Graphic Designer @ Team ILM Tech |
 | 🎓 **Education** | B.Tech CSE (AI & ML), GGITS · Sep 2024 – Dec 2028 |
 | 📍 **Location** | Jabalpur, Madhya Pradesh, India |
-| 🔍 **Looking for** | Internships · Entry-level SDE / AI-ML roles · Hackathon teams |
 
 ---
 
@@ -37,12 +40,12 @@ I'm looking for **internships and entry-level software / AI roles** where I can 
 
 An AI-powered monitoring platform for Automatic Weather Station data (temperature, humidity, pressure, wind, rainfall).
 
-- **Temporal + multivariate anomaly analysis** separates genuine weather events from unreliable sensor readings
+- **Temporal and multivariate anomaly analysis** separates genuine weather events from unreliable sensor readings
 - **Weather Trust Score** with an evidence-based verification system to raise confidence in observations
 - **Root-cause diagnosis and consensus-based self-healing** concepts to identify sensor faults and improve data reliability
 - **Fault-fingerprint memory** that remembers recurring failure patterns for faster future detection
 
-`Python` `Anomaly Detection` `Applied AI`
+`Python` `Anomaly Detection` `Time-Series Analysis` `Applied AI`
 
 [🔗 Repository](#) · [🌐 Live Demo](#)
 
@@ -51,13 +54,13 @@ An AI-powered monitoring platform for Automatic Weather Station data (temperatur
 ### 🛰️ SpaceHabitat: NASA Space Apps Challenge 2025 · 🏅 Top 50
 > *Designing for sustainable life beyond Earth.*
 
-An interactive space-habitat concept and digital prototype for mission planning and off-Earth living.
+An interactive space-habitat concept and prototype for mission planning and off-Earth living.
 
 - Visualizes **habitat systems, living conditions, and resource management**
-- Combines **web development, data visualization, and space-science concepts** into a practical solution
+- Combines **data visualization and space-science concepts** into a practical solution
 - **Selected among the Top 50 projects** in the NASA Space Apps Challenge 2025
 
-`HTML` `CSS` `JavaScript` `Visualization`
+`Data Visualization` `Prototyping` `Space Science`
 
 [🔗 Repository](#) · [🌐 Live Demo](#)
 
@@ -66,8 +69,8 @@ An interactive space-habitat concept and digital prototype for mission planning 
 ## 💼 Experience
 
 **Technical Lead · Ajinava Edge** *(Oct 2025 – Present)*
-- Lead web development and graphic design for digital products, branding, and content
-- Coordinate tech initiatives and events, aligning design and development teams
+- Lead technical initiatives and digital products for a technology community
+- Coordinate cross-functional work between design and development teams
 - Organize hackathons, workshops, and developer-focused community programs
 
 **Lead Graphic Designer · Team ILM Tech** *(Jul 2025 – Present)*
@@ -76,24 +79,36 @@ An interactive space-habitat concept and digital prototype for mission planning 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Languages**
+**Data & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Foundations**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine_Learning-Fundamentals-0A66C2?style=for-the-badge)
 
-**Web**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Platforms**
+**Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Core Strengths:** Data Structures & Algorithms · Machine Learning Fundamentals · Anomaly Detection · Web3 · Graphic & Brand Design · Technical Team Leadership · Event Organization
+**Also:** Anomaly Detection · Applied AI · Web3 · Graphic & Brand Design · Technical Team Leadership · Event Organization
+
+---
+
+## 🧭 Data Science Roadmap
+
+| Area | Status |
+|---|---|
+| Excel | ✅ Completed |
+| MySQL | 🔄 In progress |
+| Python for data | 🔄 In progress |
+| Machine Learning fundamentals | 🔄 In progress |
+| Data Science coaching program | 🔄 In progress |
+| DSA | 🔄 In progress |
 
 ---
 
@@ -116,19 +131,12 @@ An interactive space-habitat concept and digital prototype for mission planning 
 - 🔐 Introduction to Cybersecurity: **Cisco**
 - 🤖 Introduction to Modern AI
 - 🐍 Python Essentials 1 · ⚙️ C Essentials 1
-- 🌐 HTML Essentials · 🎨 CSS Essentials
-
----
-
-## 🌱 Currently Learning
-
-Python · DSA · Machine Learning · SQL · Web3 · Software Development
 
 ---
 
 ## 🤝 Let's Work Together
 
-I'm open to **internships, entry-level roles, hackathons, and collaborations**. If you're building something in AI, web, or developer communities, I'd love to hear about it.
+I'm open to **data science and analytics internships, entry-level roles, hackathons, and collaborations**. If you're working with data and need someone eager to learn and deliver, I'd love to connect.
 
 📫 **Email:** [iharshd0007@gmail.com](mailto:iharshd0007@gmail.com)
 💼 **LinkedIn:** [harshdubey-104414340](https://www.linkedin.com/in/harshdubey-104414340)
