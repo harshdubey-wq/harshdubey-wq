@@ -1,148 +1,126 @@
 <div align="center">
 
-# Harsh Dubey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:0078d4&height=180&section=header&text=Harsh%20Dubey&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist&descSize=18&descAlignY=58" width="100%" />
 
-### Aspiring Data Scientist · AI/ML Enthusiast · Technical Lead
+**First-principles thinking. Customer-first problem solving. Always learning.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3776AB&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions;Python+%7C+SQL+%7C+Excel+%7C+Machine+Learning;NASA+Space+Apps+2025+%E2%80%93+Top+50;Open+to+data+science+%26+analytics+internships)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshdubey-104414340)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iharshd0007@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshdubey-104414340)
+[![Email](https://img.shields.io/badge/Email-0f0f0f?style=flat-square&logo=gmail&logoColor=white)](mailto:iharshd0007@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FF9900?style=flat-square&logo=readthedocs&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `whoami`
 
-I'm a **B.Tech CSE (AI & ML) student at GGITS, Jabalpur** (Class of 2028), training to become a **Data Scientist**. I'm currently in a **data science coaching program**, have completed **Excel**, and am working through **MySQL**, alongside Python and machine learning fundamentals.
+```yaml
+name:        Harsh Dubey
+role:        Technical Lead @ Ajinava Edge
+studying:    B.Tech CSE (AI & ML) @ GGITS, Jabalpur · 2028
+target:      Data Scientist
+skills:      [Python, SQL/MySQL, Excel, ML fundamentals, Anomaly Detection]
+recognition: NASA Space Apps Challenge 2025, Top 50, CodeMatrix Finalist
+status:      Open to data science & analytics internships
+```
 
-I like problems where messy data has to become something trustworthy. My project **SkyGuardAI** tackles exactly that: deciding whether a weather reading is real or a faulty sensor. Outside coursework, I'm **Technical Lead at Ajinava Edge**, where I coordinate teams and help run hackathons, workshops, and developer programs.
+---
 
-I'm looking for **data science, data analytics, and ML internships** where I can work with real datasets and grow fast.
+## How I Work
+
+The companies I admire most share a few habits. These are the ones I try to build into my own work.
+
+| Principle | What it means for me |
+|---|---|
+| **Start from first principles** | Break a problem down to what is actually true, then build up. SkyGuardAI began with one question: *is this reading real, or is the sensor broken?* |
+| **Work backwards from the user** | Define who benefits and what they need before writing code. |
+| **Own the outcome** | Lead through delivery, not just tasks. I run technical initiatives and events end to end at Ajinava Edge. |
+| **Keep learning** | Growth beats talent. Excel is done, MySQL and ML are in progress, and the next skill is already on the list. |
+| **Keep it simple** | Clear data, clear insight, clear communication. |
+
+---
+
+## Featured Work
+
+### SkyGuardAI · Smart Weather Station Anomaly Detection
 
 | | |
 |---|---|
-| 🏆 **Achievement** | Top 50, NASA Space Apps Challenge 2025 |
-| 🎯 **Goal** | Data Scientist |
-| 📚 **Currently** | Data science coaching · MySQL · Python · ML fundamentals |
-| 💼 **Leadership** | Technical Lead @ Ajinava Edge · Lead Graphic Designer @ Team ILM Tech |
-| 🎓 **Education** | B.Tech CSE (AI & ML), GGITS · Sep 2024 – Dec 2028 |
-| 📍 **Location** | Jabalpur, Madhya Pradesh, India |
+| **Problem** | Automatic Weather Stations produce readings that can be wrong because of faulty sensors. Bad data leads to bad decisions. |
+| **Approach** | Temporal and multivariate anomaly analysis to separate real weather events from sensor faults. A Weather Trust Score backed by evidence-based verification. Root-cause diagnosis and consensus-based self-healing concepts. A fault-fingerprint memory for recurring failure patterns. |
+| **Stack** | `Python` `Anomaly Detection` `Time-Series Analysis` |
+| **Links** | [Repository](#) · [Demo](#) |
 
----
+### SpaceHabitat · NASA Space Apps Challenge 2025 (Top 50)
 
-## 🚀 Featured Projects
-
-### 🌦️ SkyGuardAI: Smart Weather Station Anomaly Detection
-> *Telling real weather events apart from faulty sensors.*
-
-An AI-powered monitoring platform for Automatic Weather Station data (temperature, humidity, pressure, wind, rainfall).
-
-- **Temporal and multivariate anomaly analysis** separates genuine weather events from unreliable sensor readings
-- **Weather Trust Score** with an evidence-based verification system to raise confidence in observations
-- **Root-cause diagnosis and consensus-based self-healing** concepts to identify sensor faults and improve data reliability
-- **Fault-fingerprint memory** that remembers recurring failure patterns for faster future detection
-
-`Python` `Anomaly Detection` `Time-Series Analysis` `Applied AI`
-
-[🔗 Repository](#) · [🌐 Live Demo](#)
-
----
-
-### 🛰️ SpaceHabitat: NASA Space Apps Challenge 2025 · 🏅 Top 50
-> *Designing for sustainable life beyond Earth.*
-
-An interactive space-habitat concept and prototype for mission planning and off-Earth living.
-
-- Visualizes **habitat systems, living conditions, and resource management**
-- Combines **data visualization and space-science concepts** into a practical solution
-- **Selected among the Top 50 projects** in the NASA Space Apps Challenge 2025
-
-`Data Visualization` `Prototyping` `Space Science`
-
-[🔗 Repository](#) · [🌐 Live Demo](#)
-
----
-
-## 💼 Experience
-
-**Technical Lead · Ajinava Edge** *(Oct 2025 – Present)*
-- Lead technical initiatives and digital products for a technology community
-- Coordinate cross-functional work between design and development teams
-- Organize hackathons, workshops, and developer-focused community programs
-
-**Lead Graphic Designer · Team ILM Tech** *(Jul 2025 – Present)*
-- Direct the design team producing branding and visual content for community and technical initiatives
-- Collaborate with technical and content teams to keep a consistent visual identity across platforms
-
----
-
-## 🛠️ Skills
-
-**Data & Analytics**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Foundations**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine_Learning-Fundamentals-0A66C2?style=for-the-badge)
-
-**Tools**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Also:** Anomaly Detection · Applied AI · Web3 · Graphic & Brand Design · Technical Team Leadership · Event Organization
-
----
-
-## 🧭 Data Science Roadmap
-
-| Area | Status |
+| | |
 |---|---|
-| Excel | ✅ Completed |
-| MySQL | 🔄 In progress |
-| Python for data | 🔄 In progress |
-| Machine Learning fundamentals | 🔄 In progress |
-| Data Science coaching program | 🔄 In progress |
-| DSA | 🔄 In progress |
+| **Problem** | Future off-Earth missions need habitats that support long-term human living and careful resource planning. |
+| **Approach** | An interactive prototype that visualizes habitat systems, living conditions, and resource management, combining visualization with space-science concepts. |
+| **Outcome** | Selected among the **Top 50** projects in NASA Space Apps Challenge 2025. |
+| **Links** | [Repository](#) · [Demo](#) |
 
 ---
 
-## 📊 GitHub Stats
+## Experience
+
+**Technical Lead · Ajinava Edge** · *Oct 2025 – Present*
+Lead technical initiatives and digital products, coordinate design and development teams, and organize hackathons, workshops, and developer programs.
+
+**Lead Graphic Designer · Team ILM Tech** · *Jul 2025 – Present*
+Direct the design team and keep a consistent visual identity across community and technical initiatives.
+
+---
+
+## Toolkit
+
+| Category | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0078D4?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-0f0f0f?style=flat-square&logo=c&logoColor=white) |
+| **Data** | ![MySQL](https://img.shields.io/badge/MySQL-0078D4?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Concepts** | Machine Learning Fundamentals · Anomaly Detection · Data Structures & Algorithms · Applied AI |
+| **Workflow** | ![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+---
+
+## Learning Roadmap
+
+```text
+[##########] Excel                        done
+[#####-----] MySQL                        in progress
+[#####-----] Python for Data Science      in progress
+[####------] Machine Learning             in progress
+[####------] DSA                          in progress
+[#####-----] Data Science Coaching        in progress
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=0078d4&icon_color=0078d4)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=0078d4)
 
 </div>
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
-- ☁️ Generative AI Foundations: **AWS**
-- 🔐 Introduction to Cybersecurity: **Cisco**
-- 🤖 Introduction to Modern AI
-- 🐍 Python Essentials 1 · ⚙️ C Essentials 1
+Generative AI Foundations (AWS) · Introduction to Cybersecurity (Cisco) · Introduction to Modern AI · Python Essentials 1 · C Essentials 1
 
 ---
 
-## 🤝 Let's Work Together
+## Let's Connect
 
-I'm open to **data science and analytics internships, entry-level roles, hackathons, and collaborations**. If you're working with data and need someone eager to learn and deliver, I'd love to connect.
+I'm looking for **data science and analytics internships** and entry-level roles, and I'm always up for hackathons and collaborations.
 
-📫 **Email:** [iharshd0007@gmail.com](mailto:iharshd0007@gmail.com)
-💼 **LinkedIn:** [harshdubey-104414340](https://www.linkedin.com/in/harshdubey-104414340)
+**Email:** [iharshd0007@gmail.com](mailto:iharshd0007@gmail.com) · **LinkedIn:** [harshdubey-104414340](https://www.linkedin.com/in/harshdubey-104414340)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=3776AB&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078d4,100:0f0f0f&height=100&section=footer" width="100%" />
 
 </div>
