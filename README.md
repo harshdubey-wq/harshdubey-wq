@@ -91,7 +91,6 @@ Direct the design team and keep a consistent visual identity across community an
 [#####-----] Python for Data Science      in progress
 [####------] Machine Learning             in progress
 [####------] DSA                          in progress
-[#####-----] Data Science Coaching        in progress
 ```
 
 ---
